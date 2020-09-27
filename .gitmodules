@@ -1,0 +1,3 @@
+[submodule "kanzi"]
+	path = kanzi
+	url = https://github.com/ndl/kanzi
